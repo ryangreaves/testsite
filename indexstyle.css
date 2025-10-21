@@ -130,7 +130,7 @@ body {
 }
 
 .disqus {
-  max-width: 700px
+  width: 700px
 
 /* Very light scaling for our illustration */
 .title {
