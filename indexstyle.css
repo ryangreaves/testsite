@@ -129,7 +129,7 @@ body {
   justify-content: center;
 }
 
-#disqus_thread {
+disqus_thread {
   width: 700px;
 }
 
